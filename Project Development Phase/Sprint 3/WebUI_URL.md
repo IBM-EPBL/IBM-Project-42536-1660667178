@@ -1,4 +1,4 @@
-# Webpage URL : [bit.ly/RiverWaterMonitoring](bit.ly/RiverWaterMonitoring)
+# Webpage URL : [https://bit.ly/RiverWaterMonitoring](https://bit.ly/RiverWaterMonitoring)
 
 ## Login Credentails:
 
