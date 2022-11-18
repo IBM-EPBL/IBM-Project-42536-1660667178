@@ -20,6 +20,7 @@ This node is the set the condition according to the dataset. The node is then co
 
 All the required files are uploaded
 
-Mobile App: []()
-SMS ScreenShot: []()
-Application user interface: []()
+Mobile App: [https://github.com/IBM-EPBL/IBM-Project-42536-1660667178/blob/main/Project%20Development%20Phase/Sprint%204/Water%20Monitoring.apk](https://github.com/IBM-EPBL/IBM-Project-42536-1660667178/blob/main/Project%20Development%20Phase/Sprint%204/Water%20Monitoring.apk)
+SMS ScreenShot: [https://github.com/IBM-EPBL/IBM-Project-42536-1660667178/blob/main/Project%20Development%20Phase/Sprint%204/SMS%20alert%20screenshot.jpg](https://github.com/IBM-EPBL/IBM-Project-42536-1660667178/blob/main/Project%20Development%20Phase/Sprint%204/SMS%20alert%20screenshot.jpg)
+Application user interface: [https://github.com/IBM-EPBL/IBM-Project-42536-1660667178/blob/main/Project%20Development%20Phase/Sprint%204/Mobile%20Application%20UI.jpg](https://github.com/IBM-EPBL/IBM-Project-42536-1660667178/blob/main/Project%20Development%20Phase/Sprint%204/Mobile%20Application%20UI.jpg)
+Application alert: [https://github.com/IBM-EPBL/IBM-Project-42536-1660667178/blob/main/Project%20Development%20Phase/Sprint%204/UI%20Alert.png](https://github.com/IBM-EPBL/IBM-Project-42536-1660667178/blob/main/Project%20Development%20Phase/Sprint%204/UI%20Alert.png)
