@@ -11,4 +11,6 @@
   Here technologies like Python 3.7 with ibmiotf module, IBM Watson Platform, Node-red to achieve the results. Primary parameters like pH, DO, Temperature, Turbidity, Ammonia & Nitrate are monitored and some secondary parameters like TSS, Zinc, Chloride, Conductivity are displayed in the secondary tab.
   The authorities have separate tab to control the motors, which is automatically switched when the parameters are abnormal. They have the remote access of the motor to filter, with the help of the IoT technologies.
   
+  
+## Monitoring Dashboard UI
 ![Dashboard UI](https://user-images.githubusercontent.com/113758618/203775056-e850da14-60f7-4352-b64c-04624b384cc9.png)
