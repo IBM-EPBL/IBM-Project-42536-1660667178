@@ -30,4 +30,5 @@
 ### WebUI : [WebUI URL](https://bit.ly/River_Water_Monitoring)
 ### Mobile Application : [Download Here](https://github.com/IBM-EPBL/IBM-Project-42536-1660667178/blob/main/Final%20Deliverables/Project%20Files/Water%20Monitoring.apk)
 
-## For further details and demo : [Click Here](https://bit.ly/ProjectDemoURL)
+## For further details and demo
+### Ref : [https://bit.ly/ProjectDemoURL](https://bit.ly/ProjectDemoURL)
