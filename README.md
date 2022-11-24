@@ -24,3 +24,10 @@
   
 ## Monitoring Dashboard UI
 ![Dashboard UI](https://user-images.githubusercontent.com/113758618/203775056-e850da14-60f7-4352-b64c-04624b384cc9.png)
+
+
+## Products
+### WebUI : [WebUI URL](https://bit.ly/River_Water_Monitoring)
+### Mobile Application : [Download Here](https://github.com/IBM-EPBL/IBM-Project-42536-1660667178/blob/main/Final%20Deliverables/Project%20Files/Water%20Monitoring.apk)
+
+## For further details and demo : [Click Here](https://bit.ly/ProjectDemoURL)
